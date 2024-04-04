@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExpenseTracker</string>
+    <string name="register">REGISTER HERE</string>
+    <string name="click_here_to_reset">click here to reset</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
